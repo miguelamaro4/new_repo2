@@ -1,0 +1,3 @@
+graft new_repo2
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  new_repo2/jupy *
